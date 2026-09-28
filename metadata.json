@@ -1,0 +1,6 @@
+{
+  "name": "جسور الـ ١٠٢ - منصة الشراكة المجتمعية",
+  "description": "منصة الشراكة المجتمعية الرسمية والتفاعلية (جسور الـ ١٠٢) بين المدرسة الثانوية 102 وأولياء الأمور - معًا نصنع أثرًا أفضل لبناتنا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
